@@ -1,0 +1,7 @@
+{
+  "name": "proyectogithub",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
